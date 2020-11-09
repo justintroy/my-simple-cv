@@ -63,7 +63,8 @@ hr
 
 .my-desc
 {
-    margin: auto 450px;
+    margin: auto;
+    width: 35%;
 }
 
 .middle-container
